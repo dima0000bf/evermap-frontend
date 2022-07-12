@@ -1,0 +1,6 @@
+1. typegen from evermap-assets
+
+2. later, we will add backend to handle requests. 
+But now, we will fetch everything from evermap-assets.
+Frontend architecture should be ready to switch to real backend later.
+
